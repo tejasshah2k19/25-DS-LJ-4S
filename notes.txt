@@ -1,0 +1,135 @@
+Mon 4-5 
+Tue 4-5 
+
+-----------------------------------------------------------------
+
+Data Structure --> 
+
+why ?
+DS DSA 
+
+C 
+C++
+Java 
+
+problem ->   50  data -> sachin  
+
+pages -> 
+
+
+5Lack -> sachin 
+
+speed 
+
+
+1) time complexity 
+2) space complexity 
+
+DSA -> ready made -> 
+
+
+                         DS 
+
+        Linear DS                   Non Linear
+        array                       tree
+        stack                       graph 
+        queue                       hashtable** 
+        linkedlist 
+
+
+sorting 
+            bubble , selection , insertion , merge , quick 
+searching 
+            linear , binary 
+
+ 
+
+----------------------------------------------------------------------------------
+time complexity  ==> 
+                        alog / prog -> execution time 
+
+                        number of instructions => 
+
+
+
+
+void main(){
+
+    int i;// 4byte
+    
+    for(i=1;i<=10;i++){
+        printf(" %d ",i);
+    }
+
+}
+
+constant time -> 
+
+
+
+
+void main(){
+
+    int i;
+    int n = 10 
+    for(i=1;i<=n;i++){
+        printf(" %d ",i);
+    }
+}
+
+1 n =10  => 10
+2 n =20  => 20
+3 n =5   => 5 
+
+n time --> 
+
+1 -> 1 
+2 -> 2 
+4 -> 4 
+100 -> 100 
+
+n time -> 
+
+
+----------------------------------------------------
+
+BEST Case : Omega Notation Ω 
+Worst CASE : Big O : O 
+AVG CASE  : Theta : Θ 
+
+Θ(1)
+Θ(n)
+O(n)
+
+--------------------------------------------------------
+
+C 
+
+
+java 
+
+class : object : methods 
+instance variable 
+constructor 
+
+----------------------------------------------------------
+
+array ---> 
+
+int a[5]; 
+
+int a[] = new int[5]; 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 

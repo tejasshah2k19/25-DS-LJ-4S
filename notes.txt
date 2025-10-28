@@ -121,11 +121,14 @@ int a[5];
 int a[] = new int[5]; 
 
 
+TASK 
+
+    location invalid -> insert remove 
+    array empty -> array is empty 
+    array last index add and then first index -> print first and last proper print 
 
 
-
-
-
+----------------------------------------------------------
 
 
 
